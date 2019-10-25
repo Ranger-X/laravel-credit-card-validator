@@ -10,12 +10,12 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
-        "illuminate/support": "5.*",
+        "php": ">=7.2",
+        "illuminate/support": "6.*",
         "inacho/php-credit-card-validator": "^1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.0"
+        "phpunit/phpunit": "~7.0"
     },
     "autoload": {
         "psr-4": {
